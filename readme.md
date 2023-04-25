@@ -10,7 +10,7 @@ A social media site typically includes features such as profile creation and man
 
 -The Node.js Social Media Site is a web-based application built using Node.js technology. It is designed to provide a comprehensive platform for creating and managing social media content and interactions.
 
--This site is built on top of GraphQL, a query language for APIs, which provides a flexible and efficient way to fetch and manage data. It also uses various Node.js packages and libraries to handle authentication, data storage, and other common web application tasks.
+-This site is built on Node.js which provides a flexible and efficient way to fetch and manage data. It also uses various Node.js packages and libraries to handle authentication, data storage, and other common web application tasks.
 
 -The features of this social media site include profile creation and management, content creation and sharing, social networking, messaging, and reporting and analytics. It also includes various user roles and permissions to manage access to content and interactions.
 
