@@ -3,7 +3,7 @@
 This is a Social media site and this is for learnimg purpose only.
 
 
-## How to use Nodejs-serverless-boilerplate??🧐
+## How to use Nodejs-socialite-project??🧐
 - Clone Nodejs-socialite-project Repository
 ```bash
     git clone https://github.com/Lavish2001/Socialite.git
